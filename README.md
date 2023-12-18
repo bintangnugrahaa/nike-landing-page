@@ -1,3 +1,3 @@
 # Tailwind CSS Nike Website
 
-<img src="../website.jpg" alt="tampilan website">
+<img src="./website.jpg" alt="tampilan website">
